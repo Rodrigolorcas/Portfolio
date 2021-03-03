@@ -1,8 +1,9 @@
-## Portfolio
+<img src="portada.jpg?raw=true"/>
+## Portfolio (In construction)
 
 ---
 
-### Category Name 1 
+### Data Science projects
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
