@@ -1,10 +1,10 @@
 title: Rodrigo Lorca Portfolio # your name (or website title) here
-logo: "/images/photomid.png?raw=true" # your photo (or logo) here
+logo: "photomid.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I have experience developing multiple projects as a Data Scientist,
   leading machine learning to data-driven strategies for multiple companies in Chile and Latam.
   <br><br>
-  Second description 
+   "/images/photomid.png?raw=true" # your photo (or logo) here
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
