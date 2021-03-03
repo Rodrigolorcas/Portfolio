@@ -1,4 +1,3 @@
-<img src="portada.jpg?raw=true"/>
 ## Portfolio (In construction)
 
 ---
